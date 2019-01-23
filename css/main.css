@@ -63,7 +63,7 @@ ul, li {
 	background-size: cover;
 	padding: 3em 0 4.5em;
 	position: relative !important;
-	color: #fff;
+	color: #358fff;
 }
 .overlay {
 	position: absolute;
@@ -99,15 +99,15 @@ ul, li {
  font-weight: 300;
 }
  .form-control:-moz-placeholder {
- color: #727272;
+ color: #358fff;
  font-weight: 300;
 }
  .form-control::-moz-placeholder {
- color: #727272;
+ color: #358fff;
  font-weight: 300;
 }
  .form-control:-ms-input-placeholder {
- color: #727272;
+ color: #358fff;
  font-weight: 300;
 }
 .sub-form {
@@ -299,14 +299,14 @@ ul.countdown li p {
 	margin-top: 3em;
 }
 .contact-form .form-control {
-	border-color: #ddd;
+	border-color: #358fff;
 	margin-bottom: .75em;
 	padding: .75em 12px;
 }
 .contact-form label.error {
 	margin-bottom: 12px;
 	font-weight: 300;
-	color: #ea5050;
+	color: #358fff;
 }
 .contact .btn-default {
 	width: 100%;
@@ -339,7 +339,7 @@ ul.countdown li p {
 	right: 0;
 	text-align: center;
 	z-index: 10;
-	color: #fff;
+	color: #358fff;
 	border-radius: 2px;
 	padding: .75em;
 }
@@ -397,7 +397,7 @@ ul.countdown li p {
 	margin-bottom: 1.5em;
 }
 .site-footer small {
-	color: #888;
+	color: #358fff;
 }
 /* ------------------------------------------------------------------------------
    scroll top
@@ -422,7 +422,7 @@ ul.countdown li p {
  transition: background .5s ease-in;
 }
 .scroll-top a:hover {
-	background: #ff5335;
+	background: #358fff;
 }
 /* ------------------------------------------------------------------------------
    Preloader styles
