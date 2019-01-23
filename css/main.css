@@ -37,10 +37,10 @@ h4 {
 
 }
 a {
-	color: #358fff;
+	color: #ff5335;
 }
 a:hover {
-	color: #358fff;
+	color: #d92709;
 	text-decoration: none;
 }
 a:focus {
@@ -63,7 +63,7 @@ ul, li {
 	background-size: cover;
 	padding: 3em 0 4.5em;
 	position: relative !important;
-	color: #358fff;
+	color: #fff;
 }
 .overlay {
 	position: absolute;
@@ -99,15 +99,15 @@ ul, li {
  font-weight: 300;
 }
  .form-control:-moz-placeholder {
- color: #358fff;
+ color: #727272;
  font-weight: 300;
 }
  .form-control::-moz-placeholder {
- color: #358fff;
+ color: #727272;
  font-weight: 300;
 }
  .form-control:-ms-input-placeholder {
- color: #358fff;
+ color: #727272;
  font-weight: 300;
 }
 .sub-form {
@@ -117,14 +117,14 @@ ul, li {
 	float: none;
 }
 .form-control {
-	background-color: #358fff;
-	border: 1px solid #358fff;
+	background-color: #fff;
+	border: 1px solid #fff;
 	box-shadow: none;
 	height: 50px;
 	font-weight: 300;
 }
 .form-control:focus {
-	border-color: #358fff;
+	border-color: #fff;
 	outline: 0;
 	box-shadow: none;
 }
@@ -132,17 +132,17 @@ ul, li {
 	z-index: 1;
 }
 .btn-default {
-	color: #358fff;
-	background-color: #358fff;
-	border-color: #358fff;
+	color: #fff;
+	background-color: #ff5335;
+	border-color: #ff5335;
  -webkit-transition: all .5s ease-out;
  transition: all .5s ease-out;
 	padding: 12px 1.5em;
 }
 .btn-default:hover, .btn-default:focus, .btn-default:active {
 	color: #fff;
-	background-color: #358fff;
-	border-color: #358fff;
+	background-color: #d92709;
+	border-color: #d92709;
 }
 .btn:active:focus, .btn-default:focus, .btn:focus, .btn-default:active {
 	outline: none;
@@ -219,14 +219,14 @@ ul.countdown li p {
 	line-height: 38px;
 	color: #fff;
 	border-radius: 50%;
-	background: #358fff;
+	background: #ff5335;
 	position: relative;
  -webkit-transition: all .8s ease;
  transition: all .8s ease;
 }
 .social li a:hover {
-	color: #358fff;
-	background: #358fff;
+	color: #fff;
+	background: #d92709;
 }
 /* ------------------------------------------------------------------------------
    Features
@@ -266,7 +266,7 @@ ul.countdown li p {
 .twitter-feed {
 	background: url(../img/bg-t.jpg) center center no-repeat fixed;
 	background-size: cover;
-	color: #358fff;
+	color: #fff;
 	position: relative;
 }
 .overlay-t {
@@ -280,7 +280,7 @@ ul.countdown li p {
 	margin: 0;
 }
 .twitter-icon .fa-twitter {
-	color: #358fff;
+	color: #55ACEE;
 	padding: 24px 0 12px;
 	font-size: 3em;
 }
@@ -299,14 +299,14 @@ ul.countdown li p {
 	margin-top: 3em;
 }
 .contact-form .form-control {
-	border-color: #358fff;
+	border-color: #ddd;
 	margin-bottom: .75em;
 	padding: .75em 12px;
 }
 .contact-form label.error {
 	margin-bottom: 12px;
 	font-weight: 300;
-	color: #358fff;
+	color: #ea5050;
 }
 .contact .btn-default {
 	width: 100%;
@@ -339,7 +339,7 @@ ul.countdown li p {
 	right: 0;
 	text-align: center;
 	z-index: 10;
-	color: #358fff;
+	color: #fff;
 	border-radius: 2px;
 	padding: .75em;
 }
@@ -371,7 +371,7 @@ ul.countdown li p {
 }
 .address li i {
 	padding-right: 8px;
-	color: #358fff;
+	color: #ff5335;
 }
 .address li {
 	padding-bottom: .5em;
@@ -384,7 +384,7 @@ ul.countdown li p {
 -------------------------------------------------------------------------------*/
    
 .site-footer {
-	background: #358fff;
+	background: #F1F1F1;
 }
 .site-footer.section-spacing {
 	padding: 4.5em 0;
@@ -397,7 +397,7 @@ ul.countdown li p {
 	margin-bottom: 1.5em;
 }
 .site-footer small {
-	color: #358fff;
+	color: #888;
 }
 /* ------------------------------------------------------------------------------
    scroll top
@@ -411,7 +411,7 @@ ul.countdown li p {
 	bottom: 2em;
 	right: 2em;
 	text-decoration: none;
-	color: #358fff;
+	color: #fff;
 	background-color: rgba(0, 0, 0, 0.3);
 	font-size: 12px;
 	padding: .8em 1em;
@@ -422,7 +422,7 @@ ul.countdown li p {
  transition: background .5s ease-in;
 }
 .scroll-top a:hover {
-	background: #358fff;
+	background: #ff5335;
 }
 /* ------------------------------------------------------------------------------
    Preloader styles
@@ -434,7 +434,7 @@ ul.countdown li p {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: #358fff;
+	background-color: #fefefe;
 	z-index: 9999;
 	height: 100%;
 	height: 100%;
@@ -509,7 +509,7 @@ padding: 6em 0;
 margin-bottom: 3.75em;
 }
  .features.section-spacing, .contact {
-background: #358fff;
+background: #fff;
 }
  .contact-form {
 margin-top: 0;
