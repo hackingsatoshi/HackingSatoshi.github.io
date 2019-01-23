@@ -37,10 +37,10 @@ h4 {
 
 }
 a {
-	color: #ff5335;
+	color: #358fff;
 }
 a:hover {
-	color: #d92709;
+	color: #358fff;
 	text-decoration: none;
 }
 a:focus {
@@ -117,14 +117,14 @@ ul, li {
 	float: none;
 }
 .form-control {
-	background-color: #fff;
-	border: 1px solid #fff;
+	background-color: #358fff;
+	border: 1px solid #358fff;
 	box-shadow: none;
 	height: 50px;
 	font-weight: 300;
 }
 .form-control:focus {
-	border-color: #fff;
+	border-color: #358fff;
 	outline: 0;
 	box-shadow: none;
 }
@@ -132,7 +132,7 @@ ul, li {
 	z-index: 1;
 }
 .btn-default {
-	color: #fff;
+	color: #358fff;
 	background-color: #358fff;
 	border-color: #358fff;
  -webkit-transition: all .5s ease-out;
@@ -219,14 +219,14 @@ ul.countdown li p {
 	line-height: 38px;
 	color: #fff;
 	border-radius: 50%;
-	background: #ff5335;
+	background: #358fff;
 	position: relative;
  -webkit-transition: all .8s ease;
  transition: all .8s ease;
 }
 .social li a:hover {
-	color: #fff;
-	background: #000000;
+	color: #358fff;
+	background: #358fff;
 }
 /* ------------------------------------------------------------------------------
    Features
@@ -266,7 +266,7 @@ ul.countdown li p {
 .twitter-feed {
 	background: url(../img/bg-t.jpg) center center no-repeat fixed;
 	background-size: cover;
-	color: #fff;
+	color: #358fff;
 	position: relative;
 }
 .overlay-t {
@@ -280,7 +280,7 @@ ul.countdown li p {
 	margin: 0;
 }
 .twitter-icon .fa-twitter {
-	color: #55ACEE;
+	color: #358fff;
 	padding: 24px 0 12px;
 	font-size: 3em;
 }
@@ -371,7 +371,7 @@ ul.countdown li p {
 }
 .address li i {
 	padding-right: 8px;
-	color: #ff5335;
+	color: #358fff;
 }
 .address li {
 	padding-bottom: .5em;
@@ -384,7 +384,7 @@ ul.countdown li p {
 -------------------------------------------------------------------------------*/
    
 .site-footer {
-	background: #F1F1F1;
+	background: #358fff;
 }
 .site-footer.section-spacing {
 	padding: 4.5em 0;
@@ -411,7 +411,7 @@ ul.countdown li p {
 	bottom: 2em;
 	right: 2em;
 	text-decoration: none;
-	color: #fff;
+	color: #358fff;
 	background-color: rgba(0, 0, 0, 0.3);
 	font-size: 12px;
 	padding: .8em 1em;
@@ -434,7 +434,7 @@ ul.countdown li p {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: #fefefe;
+	background-color: #358fff;
 	z-index: 9999;
 	height: 100%;
 	height: 100%;
@@ -509,7 +509,7 @@ padding: 6em 0;
 margin-bottom: 3.75em;
 }
  .features.section-spacing, .contact {
-background: #fff;
+background: #358fff;
 }
  .contact-form {
 margin-top: 0;
