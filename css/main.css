@@ -133,16 +133,16 @@ ul, li {
 }
 .btn-default {
 	color: #fff;
-	background-color: #ff5335;
-	border-color: #ff5335;
+	background-color: #358fff;
+	border-color: #358fff;
  -webkit-transition: all .5s ease-out;
  transition: all .5s ease-out;
 	padding: 12px 1.5em;
 }
 .btn-default:hover, .btn-default:focus, .btn-default:active {
 	color: #fff;
-	background-color: #d92709;
-	border-color: #d92709;
+	background-color: #358fff;
+	border-color: #358fff;
 }
 .btn:active:focus, .btn-default:focus, .btn:focus, .btn-default:active {
 	outline: none;
@@ -226,7 +226,7 @@ ul.countdown li p {
 }
 .social li a:hover {
 	color: #fff;
-	background: #d92709;
+	background: #000000;
 }
 /* ------------------------------------------------------------------------------
    Features
